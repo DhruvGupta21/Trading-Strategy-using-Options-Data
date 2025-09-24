@@ -1,6 +1,6 @@
 # Challenge with Options Data Trading Strategy  
 
-This project presents a **machine learning–driven options trading strategy**, developed for *Kriti 2024*, focusing on the **NIFTY BANK index** (July 2023 – December 2023). The strategy leverages option chain data, regression and classification models, and feature engineering to generate reliable buy/sell trading signals while managing risk effectively.  
+This project presents a **machine learning–driven options trading strategy**, focusing on the **NIFTY BANK index** (July 2023 – December 2023). The strategy leverages option chain data, regression and classification models, and feature engineering to generate reliable buy/sell trading signals while managing risk effectively.  
 
 ---
 
@@ -83,5 +83,4 @@ Key features designed for predictive modeling:
 
 ## 🙏 Acknowledgments  
 
-- Inspired by a research paper from Stanford University on stock returns vs option chain data.  
-- Developed as part of **Kriti 2024** under **Kameng Hostel**.  
+- Inspired by a research paper from Stanford University on stock returns vs option chain data.
